@@ -1,0 +1,10 @@
+.idea
+**/*-try.*
+*.pt
+**.csv
+**.log
+**.vec
+**.th
+
+output
+data
