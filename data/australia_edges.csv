@@ -1,0 +1,9 @@
+start,end,weight
+WA,NT,1
+WA,SA,1
+NT,SA,1
+NT,Q,1
+SA,Q,1
+NSW,V,1
+NSW,Q,1
+SA,V,1
