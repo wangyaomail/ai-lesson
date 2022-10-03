@@ -1,0 +1,15 @@
+pit is_surrounded_by breeze
+wumpus is_surrounded_by stench
+gold is_surrounded_by spark
+breeze is_near pit
+stench is_near wumpus
+spark is_near gold
+safe is_not wumpus
+safe is_not pit
+wumpus is_not pit
+wumpus is_not gold
+pit is_not wumpus
+pit is_not gold
+gold is_not wumpus
+gold is_not pit
+wumpus|pit are_or_not safe
