@@ -27,6 +27,11 @@
 - 6.b.逻辑问题.Wumpus世界.01规则.ipynb
 - 6.c.逻辑问题.Wumpus世界.危险点.ipynb
 - 6.d.逻辑问题.Wumpus世界.组合规则.ipynb
+- 7.a.planning.Wumpus世界.基本行为.ipynb
+- 7.b.planning.Wumpus世界.act实现.ipynb
+- 8.a.probability.牙疼问题.联合分布.ipynb
+- 8.b.probability.Wumpus世界.困惑世界.ipynb
+- 8.c.probability.Wumpus世界.按概率移动.ipynb
 
 
 [//]: # (### 1-绪论-8.29)
