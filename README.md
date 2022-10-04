@@ -32,6 +32,7 @@
 - 8.a.probability.牙疼问题.联合分布.ipynb
 - 8.b.probability.Wumpus世界.困惑世界.ipynb
 - 8.c.probability.Wumpus世界.按概率移动.ipynb
+- 8.d.probability.劫匪问题.贝叶斯网络.ipynb
 
 
 [//]: # (### 1-绪论-8.29)
