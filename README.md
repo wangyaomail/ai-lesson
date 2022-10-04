@@ -33,6 +33,11 @@
 - 8.b.probability.Wumpus世界.困惑世界.ipynb
 - 8.c.probability.Wumpus世界.按概率移动.ipynb
 - 8.d.probability.劫匪问题.贝叶斯网络.ipynb
+- 9.a.mdp.ipynb(待补充)
+- 10.a.learning.ipynb(见[machine-learning-lesson](https://github.com/wangyaomail/machine-learning-lesson))
+- 11.a.knowledge.ipynb(待补充)
+- 12.a.rl.ipynb(待补充)
+- 13.a.nlp.ipynb(待补充)
 
 
 [//]: # (### 1-绪论-8.29)
