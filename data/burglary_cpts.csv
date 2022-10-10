@@ -1,0 +1,11 @@
+p,key,burglary,earthquake,alarm,john,mary
+0.95,alarm,1,1,0,0,0
+0.94,alarm,1,-1,0,0,0
+0.29,alarm,-1,1,0,0,0
+0.001,alarm,-1,-1,0,0,0
+0.9,john,0,0,1,0,0
+0.05,john,0,0,-1,0,0
+0.7,mary,0,0,1,0,0
+0.01,mary,0,0,-1,0,0
+0.001,burglary,0,0,0,0,0
+0.002,earthquake,0,0,0,0,0
